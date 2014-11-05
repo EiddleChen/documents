@@ -1,9 +1,14 @@
-Git:
+Git
 ====
 * [All kinds of the git books](/books/git)
-* Some documents online:(http://git-scm.com/book/zh/v1)
+* Some online documents:(http://git-scm.com/book/zh/v1)
+
+Markdown
+====
+[Chinese Edition Document of Markdown Sytax](http://wowubuntu.com/markdown/)
+[English Edition Document of Markdown Sytax](http://daringfireball.net/projects/markdown/syntax)
 
 
-Algorithm:
+Algorithm
 ====
 * [Some useful algorithm books](/books/algorithm)
