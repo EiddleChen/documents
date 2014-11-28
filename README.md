@@ -21,4 +21,5 @@ FUCK the GFW(FUCK fangbingxing;科学上网)
 * [Shadowoscks-heroku](https://github.com/wssbwssbwssb/shadowsocks-heroku) or [win32 client with free account](https://dropbox-b9attwnik5i4innz.rhcloud.com/)
 * [Goagent on Openshift](https://github.com/wssbwssbwssb/goagent-rhc)
 * [Snova](https://code.google.com/p/snova/) (Heroku and openshift is the best)
+* [翻墙后看的RSS](http://1008rjsx.tk/39-fan-qiang-hou-derss-ding-yue-yuan)
 * Climbing by your own body
