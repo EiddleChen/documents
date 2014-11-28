@@ -14,9 +14,10 @@ Algorithm
 * [Some useful algorithm books](/books/algorithm)
 
 
-Climb over the wall(ni dong de;)
+FUCK the GFW(FUCK fangbingxing;科学上网)
 ----
 * [Goagent](https://github.com/goagent/goagent)
 * [Shadowsocks](https://github.com/clowwindy/shadowsocks)
-* [Shadowsocks-heroku](https://dropbox-b9attwnik5i4innz.rhcloud.com/)
+* [Shadowoscks-heroku](https://github.com/wssbwssbwssb/shadowsocks-heroku) or [win32 client with free account](https://dropbox-b9attwnik5i4innz.rhcloud.com/)
+* [Shadowsocks-heroku]
 * Climbing by your own body
